@@ -1,0 +1,21 @@
+{
+    "name": "walk/yii2-exel-reader",
+    "description": "Библиотека для считывания данных из таблиц Exel",
+    "type": "library",
+    "keywords": ["yii2","exel-reader"],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Sergey",
+            "email": "Skripnichenko.s.a@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "walk\\exelreader\\": ""
+        }
+    }
+}
