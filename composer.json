@@ -1,5 +1,5 @@
 {
-    "name": "walk/yii2-exel-reader",
+    "name": "socialist/yii2-exel-reader",
     "description": "Библиотека для считывания данных из таблиц Exel",
     "type": "library",
     "keywords": ["yii2","exel-reader"],
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "walk\\exelreader\\": ""
+            "socialist\\exelreader\\": ""
         }
     }
 }
