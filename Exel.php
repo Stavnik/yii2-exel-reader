@@ -1,6 +1,6 @@
 <?php
 
-namespace socialist\exel;
+namespace socialist\exelreader;
 
 
 
@@ -15,7 +15,7 @@ class Exel
 	{
 		$ext = self::getExt($file);
 
-		$className = "\\socialist\\exel\\{$ext}\\Reader";
+		$className = "\\socialist\\exelreader\\{$ext}\\Reader";
 
 		if(!file_exists(dirname(__FILE__) . "/{$ext}/Reader.php")) {
 			return null;

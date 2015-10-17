@@ -1,8 +1,8 @@
 <?php
 
-namespace socialist\exel\xlsx;
+namespace socialist\exelreader\xlsx;
 
-use socialist\exel\xlsx\XLSXReader;
+use socialist\exelreader\xlsx\XLSXReader;
 
 /**
  * XLSXReader

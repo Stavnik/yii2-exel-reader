@@ -1,6 +1,6 @@
 <?php
 
-namespace socialist\exel;
+namespace socialist\exelreader;
 
 
 interface ExelReaderInterface
