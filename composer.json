@@ -1,6 +1,6 @@
 {
     "name": "walk/yii2-exel-reader",
-    "description": "Библиотека для считывания данных из таблиц Exel",
+    "description": "A class for reading Microsoft Excel (97/2003) Spreadsheets.",
     "type": "library",
     "keywords": ["yii2","exel-reader"],
     "license": "GPL-2.0",
@@ -17,5 +17,11 @@
         "psr-4": {
             "walk\\exelreader\\": ""
         }
-    }
+    },
+    "repositories":[
+        {
+            "type": "git",
+            "url": "https://github.com/socialist/yii2-exel-reader.git"
+        }
+    ]
 }
