@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist walk/yii2-exel-reader "*"
+php composer.phar require --prefer-dist socialist/yii2-exel-reader "*"
 ```
 
 or add
 
 ```
-"walk/yii2-exel-reader": "*"
+"socialist/yii2-exel-reader": "*"
 ```
 
 to the require section of your `composer.json` file.

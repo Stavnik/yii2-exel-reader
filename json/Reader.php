@@ -1,8 +1,8 @@
 <?php
 
-namespace walk\exelreader\json;
+namespace walk\exel\json;
 
-use walk\exelreader\ExelReaderTypeInterface;
+use walk\exel\ExelReaderTypeInterface;
 
 /**
 * 

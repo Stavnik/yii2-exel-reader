@@ -1,8 +1,8 @@
 <?php
 
-namespace walk\exelreader\csv;
+namespace walk\exel\csv;
 
-use walk\exelreader\ExelReaderTypeInterface;
+use walk\exel\ExelReaderTypeInterface;
 
 /**
 * 

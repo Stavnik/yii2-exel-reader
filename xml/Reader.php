@@ -1,8 +1,8 @@
 <?php
 
-namespace walk\exelreader\xml;
+namespace walk\exel\xml;
 
-use walk\exelreader\ExelReaderTypeInterface;
+use walk\exel\ExelReaderTypeInterface;
 
 /**
 * 

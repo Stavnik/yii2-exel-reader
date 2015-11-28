@@ -1,6 +1,7 @@
 {
-    "name": "walk/yii2-exel-reader",
-    "description": "A class for reading Microsoft Excel (97/2003) Spreadsheets.",
+    "name": "socialist/yii2-exel-reader",
+    "description": "Yii2 Extension for import data from Exel Spreadsheets.",
+    "version": "0.2.2",
     "type": "library",
     "keywords": ["yii2","exel-reader"],
     "license": "GPL-2.0",
@@ -15,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "walk\\exelreader\\": ""
+            "socialist\\exelreader\\": ""
         }
     },
     "repositories":[
