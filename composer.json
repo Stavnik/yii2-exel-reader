@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "socialist\\exelreader\\": ""
+            "socialist\\exel\\": ""
         }
     },
     "repositories":[
